@@ -1,0 +1,6 @@
+id,title,artist,genre,year,path
+1,The Great Gatsby,F. Scott Fitzgerald,Classic,1925,books/the_great_gatsby.pdf
+2,Kind of Blue,Miles Davis,Jazz,1959,music/kind_of_blue.mp3
+3,Planet Earth II,David Attenborough,Nature,2016,video/planet_earth_ii.mp4
+4,Random Access Memories,Daft Punk,Electronic,2013,music/random_access_memories.mp3
+5,The Dark Side of the Moon,Pink Floyd,Progressive Rock,1973,music/dark_side_of_the_moon.flac
